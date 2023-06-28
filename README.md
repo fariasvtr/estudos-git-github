@@ -1,7 +1,9 @@
 # Sistema de Cadrasto de Jogos
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+Status do projeto: em desenvolvimento
 
-´´´
-npm install reack
-´´´
+Para rodar esse projeto a sua máquina, por favor digite:
+
+```
+node app.js
+```
